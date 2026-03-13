@@ -1,0 +1,38 @@
+[
+  {
+    "title": "The Future of JavaScript Frameworks",
+    "speakers": ["Jane Doe"],
+    "categories": ["JavaScript", "Web Development", "Frontend"],
+    "description": "A deep dive into the evolving landscape of JavaScript frameworks, from React to Vue and beyond."
+  },
+  {
+    "title": "Building Scalable APIs with Node.js",
+    "speakers": ["John Smith"],
+    "categories": ["Node.js", "Backend", "API"],
+    "description": "Learn how to design and build APIs that can handle millions of requests."
+  },
+  {
+    "title": "CSS Grid and Flexbox: The Ultimate Showdown",
+    "speakers": ["Emily White", "Chris Green"],
+    "categories": ["CSS", "Frontend", "Web Design"],
+    "description": "A practical comparison of CSS Grid and Flexbox, and when to use each for modern web layouts."
+  },
+  {
+    "title": "Introduction to Machine Learning with Python",
+    "speakers": ["Alex Johnson"],
+    "categories": ["Python", "Machine Learning", "Data Science"],
+    "description": "An introductory session on the fundamentals of machine learning using Python and popular libraries like Scikit-learn."
+  },
+  {
+    "title": "Securing Your Web Applications",
+    "speakers": ["Michael Brown"],
+    "categories": ["Security", "Web Development", "Cybersecurity"],
+    "description": "Discover common web vulnerabilities and how to protect your applications from them."
+  },
+  {
+    "title": "The Power of Serverless Architecture",
+    "speakers": ["Sarah Davis", "David Wilson"],
+    "categories": ["Serverless", "Cloud", "Architecture"],
+    "description": "Explore the benefits of serverless computing and how to build applications without managing servers."
+  }
+]
